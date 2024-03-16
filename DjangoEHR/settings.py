@@ -90,9 +90,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'postgres',
-        'USER': 'lab3database',
-        'PASSWORD': 'Mypassword3',
-        'HOST': 'ehrserver.postgres.database.azure.com',
+        'USER': 'ahmedgehad1200387',
+        'PASSWORD': 'Ahmedgehad.1200387',
+        'HOST': 'ahmedgehad1200387.postgres.database.azure.com',
         'PORT': '5432',
         'OPTIONS':{'sslmode':'require'},
     }
